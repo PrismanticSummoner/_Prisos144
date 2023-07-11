@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgBoN3gXK9Ds3iedZZxWyoxUm7gBEG+O2xijdYMGsiE0vKBhW0bEsxuW2H9EWiJLVp4lSMaJyZl6B0QYC7EgDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ehard\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\_144Prisos\\_144Prisos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehard\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
